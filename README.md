@@ -2,4 +2,3 @@ AUTHOR: JESSE OYOFO DAN-AMUDA
 
 COMMAND: php artisan serve --host=0.0.0.0 --port=8000
 ACCESS LOCALLY ON YOUR IP.
-# pgoldbackend
